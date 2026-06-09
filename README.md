@@ -13,5 +13,5 @@ To run this notebook locally, ensure you have Python installed and run the follo
 * **Recommendation:** Marketing budget should be heavily prioritized toward TV advertising to maximize Sales ROI.
 
 ## Files
-* `regression_analysis.ipynb`: The Jupyter Notebook containing all data cleaning, EDA, modeling, and diagnostics.
-* `marketing_data.csv`: The dataset used for the analysis.
+* `Marketing_Project.ipynb`: The Jupyter Notebook containing all data cleaning, EDA, modeling, and diagnostics.
+* `marketing_and_sales_data_evaluate_lr.csv`: The dataset used for the analysis.
